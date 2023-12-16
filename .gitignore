@@ -1,0 +1,8 @@
+SceneTrialTrain
+*.zip
+yolo_data
+*pycache*
+models
+*.pt
+crnn_data
+runs
